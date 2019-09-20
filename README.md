@@ -10,3 +10,5 @@ Added a function to catch if a file was input that didn't exist.
 Updated the basic_test.sh file to test for the presence of a file.
 
 Fixed the style.py file to adhere to Pep8 standards.
+
+Tried to put in some new tests into basics_test.py, but couldn't quite figure out how to use flags inside on an object.
